@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "oeis-lean: machine-checked proofs of OEIS conjectures in Lean 4"
+message: "If you use these proofs, please cite this repository."
+type: software
+authors:
+  - family-names: Wiktorowicz
+    given-names: Rafał
+license: MIT
+repository-code: "https://github.com/braun-systems/oeis-lean"
+abstract: >-
+  Formal, kernel-checked proofs of conjectures recorded in the On-Line
+  Encyclopedia of Integer Sequences. The first entry proves Stoll's
+  recurrence a(n) = a(n-1) + a(n-3) for n >= 12 for OEIS A252864, and
+  that the threshold is sharp. No external libraries are used.
+keywords:
+  - Lean 4
+  - formal verification
+  - OEIS
+  - integer sequences
