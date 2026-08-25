@@ -24,7 +24,7 @@
   offset 0 i a(0) = 1 (odczyt u źródła 25.08.2026: `%O A252864 0,3`,
   `%S A252864 1,1,2,3,5,8,12,…`).
 
-  KONJEKTURA STOLLA (MathOverflow 195207, odpowiedź 195264, 2015-01-30; ta sama
+  KONJEKTURA STOLLA (MathOverflow 195207, odpowiedź 195272, 2015-01-30; ta sama
   w polu Formula wpisu OEIS A252864):
 
         a(n) = a(n−1) + a(n−3)   dla wszystkich n ≥ 12.
